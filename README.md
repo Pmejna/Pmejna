@@ -1,4 +1,4 @@
-## Hi there 👋 I am currently working as a Junior Full Stack Developer and UI designer.
+## Hi, I am a fullstack developer.
 
 ### In short:
 * I am working mostly in: React - Redux, Material UI, PHP - MVC frontend for static sites, Slim+Eloquent as a backend, MySQL, and usual HTML, SCSS and JS.
