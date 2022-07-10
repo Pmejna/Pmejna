@@ -1,14 +1,13 @@
-## Hi, I am a fullstack developer.
+## Hi, I am an frontend developer.
+Currently working as a Junior Developer in Tonik (Poznan, Poland)
 
 ### In short:
-* I am working mostly in: React - Redux, Material UI, PHP - MVC frontend for static sites, Slim+Eloquent as a backend, MySQL, and usual HTML, SCSS and JS.
-* Although my favourite Stack is: Typescript, React, Redux, styled-components, NodeJS with NestJS, GatsbyJS.
+* My current 'on job' tech-stack is: React, Typescript, NextJS, @emotion.
 * Big fan of: GraphQL, Docker, mentioned above stack ^^
-* I expand my knowledge about: Docker, dev-ops stuff (Linux, Nginx), and all the mentioned stack above. 
+* Apart the listed stack I expand my knowledge of: Docker, Testing, CI/CD(Github workflows) and other dev-ops stuff (Linux, Nginx). 
 
 ### My portfolio website
-New updates coming soon as the website has been buildt while ago: so time to refactor some code, add new projects and implement missing features.
-
+Currently outdated, build in GatsbyJS.
 [Mejna.co.uk](https://mejna.co.uk)
 
 ### Thanks for your time! Cheers!
