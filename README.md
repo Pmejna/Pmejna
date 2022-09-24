@@ -11,3 +11,7 @@ Currently outdated, build in GatsbyJS.
 [Mejna.co.uk](https://mejna.co.uk)
 
 ### Thanks for your time! Cheers!
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pmejna&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pmejna&langs_count=5&theme=tokyonight)]()
