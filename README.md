@@ -1,4 +1,4 @@
-## Hi, I am an frontend developer.
+## Hi, I am a frontend developer.
 Currently working as a Junior Developer in Tonik (Poznan, Poland)
 
 ### In short:
