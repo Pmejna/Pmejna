@@ -1,5 +1,5 @@
 ### Hello! 👋
-I am a Software Developer at Tonik, located in Poznan, Poland
+I am a Software Developer for Tonik, located in Poznan, Poland
 
 Working alongside brilliant minds to create innovative projects is where I find my inspiration!
 
